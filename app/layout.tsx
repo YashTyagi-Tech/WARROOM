@@ -2,8 +2,8 @@ import "./globals.css";
 import Script from "next/script";
 
 export const metadata = {
-    title: "YASH TYAGI — Full Stack Engineer",
-    description: "Architecting high-performance systems across the full stack.",
+title: "WarRoom — Real-Time Global Intelligence",
+  description: "Live Iran–Israel–USA conflict tracking & market reaction dashboard.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
